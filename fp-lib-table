@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name RockPi)(type KiCad)(uri ${KIPRJMOD}/lib/RockPi.pretty)(options "")(descr ""))
+)
